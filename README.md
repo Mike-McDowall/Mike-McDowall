@@ -2,7 +2,7 @@
 I'm a keen coder with a background in TV production and am planning to lauch a new tech start up to build apps related to journalism, media, and the travel industry.
  
 ## PROJECTS
-I've worked up several software projects since Sept 2023.
+I've worked up numerous coding projects since Sept 2023.
 Most of them are currently 'private' but if you would like to check any of them out, please drop me a line at:
 michaelpatrickmcdowall@gmail.com
 
