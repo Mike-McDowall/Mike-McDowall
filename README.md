@@ -38,11 +38,11 @@ The app uses an API to fetch the football stats, and has a database of contestan
 
 
 ## 5)  In Stock
-This was a week long project conducted in teams.  
+This was a week long project conducted in teams. I focussed on the back end  
 
 
 ## 6)  Brainflix
-This is one of my early college projects.  It's a React app that uses Express on the server side and has a JASON database.
+This is one of my early college projects.  It's a React app that uses Express on the server side and has a JSON database.
 
 
 ## 7)  Tastemakers
@@ -52,7 +52,7 @@ Teams combined UX designers and software engineers, and my team won!
 
 
 ## PORTFOLIO
-Please check out my software developer wwe site at:
+Please check out my software developer websitesite at:
 https://mike-mcdowall.co.uk/
 
 Or my TV producer website at:
