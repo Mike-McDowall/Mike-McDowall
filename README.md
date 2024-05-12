@@ -16,7 +16,7 @@ It’s a React app with Express on the server side and it uses a great API calle
 As well as making job hunting easier for coders, it also features a database of expert coders, so that recruiters can headhunt in one tidy, convenient place.  
 
 Check out the 'live' web application here: 
-coderati.co.uk
+https://coderati.co.uk
 
 Or watch this short video if you would like to watch a short demo video of the app:
 https://youtu.be/Ez1hE0_1yZc
