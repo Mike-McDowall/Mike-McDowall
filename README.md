@@ -13,9 +13,12 @@ This is my capstone project from a Sortware Engineering course that I took at Br
 CODERATI is a recruitment application that connects skilled coders with the companies that need to hire them. 
 Its goal is to address the fact that tech jobs are scattered over internet, often on websites that don’t specialise in coding. 
 It’s a React app with Express on the server side and it uses a great API called JSearch. 
-As well as making job hunting easier for coders, it also features a database of tech experts, so that recruiters can headhunt in one tidy, convenient place.  
+As well as making job hunting easier for coders, it also features a database of expert coders, so that recruiters can headhunt in one tidy, convenient place.  
 
-Check out this video if you would like to see a demo of the working app:
+Check out the 'live' web application here: 
+coderati.co.uk
+
+Or watch this short video if you would like to watch a short demo video of the app:
 https://youtu.be/Ez1hE0_1yZc
 
 
